@@ -8,6 +8,12 @@ Pose files can contain an optional json property named `Base64Image` which conta
 
 I wanted to be able to also see this in Windows in Explorer, so, thus this project.
 
+## Example
+
+<img width="1234" height="917" alt="Screenshot 2026-05-25 154300" src="https://github.com/user-attachments/assets/17fc6185-aefa-491c-9a33-f0d717b6fb4e" />
+
+Pose pack by [StrangeCalamity](https://xivmodarchive.com/user/155550), as previewed in Windows Explorer, after I added image previews from their cover art.
+
 ## Implementation details
 
 It's a very simple C# implementation of a Windows Shell Extension, using [`SharpShell`](https://github.com/dwmkerr/sharpshell) as the library for easy creation.
