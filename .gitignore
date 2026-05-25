@@ -7,3 +7,5 @@ riderModule.iml
 .vs/
 *.user
 dist/
+/.claude/settings.local.json
+
